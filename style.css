@@ -115,7 +115,7 @@ ul{
     position: absolute;
     right: -50px;
     bottom: 0;
-    background-image: url('/images/banner-img-1.svg');
+    background-image: url('../images/banner-img-1.svg');
     background-size: contain;
     background-repeat: no-repeat;
     width: 738px;
@@ -352,7 +352,7 @@ ul{
 }
 
 .book-call__box-3{
-    background-image: url('/images/book-call-img-1.svg');
+    background-image: url('../images/book-call-img-1.svg');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -378,12 +378,12 @@ ul{
 }
 
 .book-call__box-1:before{
-    background-image: url('/images/book-call-img-2.svg');
+    background-image: url('../images/book-call-img-2.svg');
     right: -103px;
 }
 
 .book-call__box-2:before{
-    background-image: url('/images/book-call-img-3.svg');
+    background-image: url('../images/book-call-img-3.svg');
     right: -104px;
 }
 
@@ -396,7 +396,7 @@ ul{
 }
 
 .e-book__img-content{
-    background-image: url('/images/e-book-img-2.svg');
+    background-image: url('../images/e-book-img-2.svg');
     background-repeat: no-repeat;
     background-size: contain;
     padding: 32px 0 43px 85px;
@@ -443,12 +443,12 @@ ul{
 }
 
 .discovery-call::before{
-    background-image: url('/images/discovery-call-img-1.svg');
+    background-image: url('../images/discovery-call-img-1.svg');
     left: 0;
 }
 
 .discovery-call::after{
-    background-image: url('/images/discovery-call-img-2.svg');
+    background-image: url('../images/discovery-call-img-2.svg');
     right: 0;
 }
 
@@ -710,7 +710,7 @@ ul{
     }
 
     .book-call__box-2:before{
-        background-image: url('/images/book-call-img-2.svg');
+        background-image: url('./images/book-call-img-2.svg');
     }
     
     .e-book__img-content{
