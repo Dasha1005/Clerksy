@@ -608,6 +608,23 @@ ul{
         width: 230px;
         height: 308px;
     }
+
+    .Clerksy-assistance{
+        padding-top: 100px;
+    }
+
+    .partners,
+    .employees,
+    .synergy,
+    .book-call,
+    .e-book{
+        padding: 100px 0;
+    }
+
+    .empowerment,
+    .hr-production{
+        padding-bottom: 100px;
+    }
 }
 
 @media screen and (max-width: 992px){
@@ -641,7 +658,7 @@ ul{
 
     .partners,
     .hr-production__box{
-        padding-bottom: 60px;
+        padding-bottom: 50px;
     }
 
     .hr-production{
@@ -663,7 +680,8 @@ ul{
 
     .employees,
     .synergy,
-    .e-book{
+    .e-book,
+    .book-call{
         padding: 80px 0;
     }
 
@@ -741,6 +759,9 @@ ul{
     .e-book__img-content,
     .synergy__img{
         max-width: 430px;
+    }
+
+    .synergy__img{
         margin: 0 auto;
     }
 }
@@ -831,7 +852,20 @@ ul{
 
     .Clerksy-assistance__img,
     .synergy__img{
+        max-width: 220px;
+    }
+
+    .partners{
+        padding-top: 80px;
+    }
+
+    .e-book__img-content{
         max-width: 300px;
+    }
+
+    .title {
+        font-size: 35px;
+        line-height: 45px;
     }
 }
 
@@ -859,11 +893,6 @@ ul{
 
     .footer-nav__list {
         flex-wrap: wrap;
-    }
-
-    .title {
-        font-size: 35px;
-        line-height: 45px;
     }
 }
 
