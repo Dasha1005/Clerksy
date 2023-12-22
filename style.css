@@ -979,6 +979,24 @@ ul{
         max-width: 220px;
     }
 
+    .book-call__box-1:before,
+    .book-call__box-2:before{
+        display: none;
+    }
+
+    .book-call__box-3 .book-call__box-subtitle {
+        padding-bottom: 10px;
+    }
+
+    .book-call__box-3{
+        padding: 35px 0;
+    }
+
+    .book-call__box-3{
+        background-image: none;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 430px){
@@ -991,21 +1009,6 @@ ul{
     .banner__content-text{
         max-width: 100%;
         padding: 35px 0 240px;
-    }
-
-    .book-call__box-3{
-        background-image: none;
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-
-    .book-call__box-1:before,
-    .book-call__box-2:before{
-        display: none;
-    }
-
-    .book-call__box-3 .book-call__box-subtitle {
-        padding-bottom: 10px;
     }
 
 }
