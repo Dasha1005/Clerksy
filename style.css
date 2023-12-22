@@ -115,7 +115,7 @@ ul{
     position: absolute;
     right: -50px;
     bottom: 0;
-    background-image: url('images/banner-img-1.svg');
+    background-image: url('/images/banner-img-1.svg');
     background-size: contain;
     background-repeat: no-repeat;
     width: 738px;
