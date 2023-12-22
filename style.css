@@ -658,7 +658,7 @@ ul{
 
     .partners,
     .hr-production__box{
-        padding-bottom: 50px;
+        padding-bottom: 35px;
     }
 
     .hr-production{
@@ -789,10 +789,6 @@ ul{
         padding-right: 20px;
     }
 
-    .Clerksy-assistance {
-        padding-top: 80px;
-    }
-
     .Clerksy-assistance__content-img-top{
         padding-bottom: 40px;
     }
@@ -855,10 +851,6 @@ ul{
         max-width: 220px;
     }
 
-    .partners{
-        padding-top: 80px;
-    }
-
     .e-book__img-content{
         max-width: 300px;
     }
@@ -866,6 +858,70 @@ ul{
     .title {
         font-size: 35px;
         line-height: 45px;
+    }
+
+    body{
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .employees__text {
+        padding-bottom: 15px;
+    }
+
+    .hr-production__title{
+        padding-bottom: 50px;
+    }
+
+    .Clerksy-assistance,
+    .discovery-call{
+        padding-top: 60px;
+    }
+
+    .partners,
+    .employees,
+    .synergy,
+    .book-call,
+    .e-book{
+        padding: 60px 0;
+    }
+
+    .empowerment{
+        padding-bottom: 60px;
+    }
+
+    .hr-production{
+        padding-bottom: 30px;
+    }
+
+    .book-call__title {
+        padding-bottom: 15px;
+    }
+
+    .book-call__text {
+        padding-bottom: 0;
+    }
+
+    .book-call__box {
+        padding-top: 35px;
+    }
+
+    .book-call__box-text{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    
+    .book-call__box-subtitle {
+        padding-bottom: 10px;
+    }
+
+    .book-call__box-3 .book-call__box-subtitle {
+        padding-bottom: 23px;
+    }
+
+    .book-call__box-3 {
+        margin-top: 25px;
+        margin-bottom: 30px;
     }
 }
 
@@ -894,6 +950,35 @@ ul{
     .footer-nav__list {
         flex-wrap: wrap;
     }
+
+    .hr-production__box-1 img{
+        width: 50px;
+    }
+
+    .hr-production__box-2 img,      
+    .hr-production__box-3 img{
+        width: 32px;
+    }
+
+    .hr-production__box-4 img{
+        width: 45px;
+    }
+    
+    .hr-production__box-img {
+        padding-bottom: 20px;
+    }
+
+    .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .e-book__img-content{
+        padding-top: 15px;
+        padding-bottom: 25px;
+        max-width: 220px;
+    }
+
 }
 
 @media screen and (max-width: 430px){
@@ -919,7 +1004,8 @@ ul{
         display: none;
     }
 
-    .book-call__box{
-        max-width: 100%;
+    .book-call__box-3 .book-call__box-subtitle {
+        padding-bottom: 10px;
     }
+
 }
