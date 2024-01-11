@@ -70,10 +70,12 @@ ul{
 .light-btn:hover{
     transition: linear 0.2s;
     box-shadow: 2px 3px 6px #08170b;
+    color: #FBFAF7;
 }
 
 .light-btn:hover{
     box-shadow: 2px 3px 6px #acad92;
+    color: #163A24;
 }
 
 .light-btn{
