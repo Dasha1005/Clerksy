@@ -103,7 +103,7 @@ ul{
     font-size: 16px;
 }
 
-.menu__link:hover{
+a:hover{
     color: #FBFAF7;
 }
 
