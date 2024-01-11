@@ -103,6 +103,10 @@ ul{
     font-size: 16px;
 }
 
+.menu__link:hover{
+    color: #FBFAF7;
+}
+
 .banner{
     overflow-x: hidden;
 }
